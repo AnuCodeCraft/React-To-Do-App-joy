@@ -34,7 +34,7 @@ function App() {
     const newTodo = [...todos] 
     newTodo.splice(index,1)
     setTodos(newTodo)
-  }
+  } 
 
  
  function AddTodo(){
